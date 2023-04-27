@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuzdesan&layout=compact)](https://github.com/Kuzdesan/github-readme-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Kuzdesan)](https://github.com/Kuzdesan/leetcode-stats)
